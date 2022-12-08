@@ -99,7 +99,7 @@ var index =
     {
         "column": "exercises",
         "name": "Code 3",
-        "link": "contents/Module 05_Concurrency/Code.zip"
+        "link": "contents/Module 05_Concurrency/Code"
       },
     {
         "column": "exercises",
