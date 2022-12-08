@@ -82,7 +82,7 @@ var index =
       {
         "column": "exercises",
         "name": "Homework Solutions",
-        "link": "contents/Module 04_Scheduling/Solutions.docx"
+        "link": "contents/Module 04_Scheduling/Solution.xslx"
       },
         ],
     [
