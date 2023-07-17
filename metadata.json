@@ -230,7 +230,7 @@
         {
             "title": "File System and IO, Module 8",
             "subject": ["arm", "rtos", "stm32f4-discovery", "real-time-operating-system", "keil-mdk"],
-            "type": "Lab",
+            "type": "Lecture",
             "format": "doc",
             "creator": "",
             "publisher": "Arm Education",
