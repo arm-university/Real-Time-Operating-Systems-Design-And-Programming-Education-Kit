@@ -1,0 +1,1 @@
+freertos_semaphorefromisr\startup_stm32l552xx_1.o: STM32CubeMX\FreeRTOS_SemaphoreFromISR\STM32CubeMX\MDK-ARM\startup_stm32l552xx.s

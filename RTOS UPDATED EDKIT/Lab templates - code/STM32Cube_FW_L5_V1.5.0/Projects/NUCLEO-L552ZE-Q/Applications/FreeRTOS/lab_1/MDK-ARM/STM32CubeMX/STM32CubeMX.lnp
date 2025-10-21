@@ -1,0 +1,27 @@
+--cpu=Cortex-M33
+"stm32cubemx\startup_stm32l552xx.o"
+"stm32cubemx\main.o"
+"stm32cubemx\stm32l5xx_it.o"
+"stm32cubemx\stm32l5xx_hal_msp.o"
+"stm32cubemx\my_asm.o"
+"stm32cubemx\stm32l5xx_hal_pwr.o"
+"stm32cubemx\stm32l5xx_hal_pwr_ex.o"
+"stm32cubemx\stm32l5xx_hal.o"
+"stm32cubemx\stm32l5xx_hal_i2c.o"
+"stm32cubemx\stm32l5xx_hal_i2c_ex.o"
+"stm32cubemx\stm32l5xx_hal_rcc.o"
+"stm32cubemx\stm32l5xx_hal_rcc_ex.o"
+"stm32cubemx\stm32l5xx_hal_flash.o"
+"stm32cubemx\stm32l5xx_hal_flash_ex.o"
+"stm32cubemx\stm32l5xx_hal_flash_ramfunc.o"
+"stm32cubemx\stm32l5xx_hal_gpio.o"
+"stm32cubemx\stm32l5xx_hal_dma.o"
+"stm32cubemx\stm32l5xx_hal_dma_ex.o"
+"stm32cubemx\stm32l5xx_hal_exti.o"
+"stm32cubemx\stm32l5xx_hal_cortex.o"
+"stm32cubemx\stm32l5xx_hal_icache.o"
+"stm32cubemx\system_stm32l5xx.o"
+--strict --scatter "stm32l552xe_flash.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "STM32CubeMX.map" -o STM32CubeMX\STM32CubeMX.axf
