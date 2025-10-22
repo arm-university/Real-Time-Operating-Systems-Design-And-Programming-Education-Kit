@@ -1,0 +1,9 @@
+# ninja log v6
+29	124	7600249790882999	RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-mkdir	c88bea1e999372ad
+29	124	7600249790882999	C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-mkdir	c88bea1e999372ad
+125	176	7600249791382506	RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-download	df4cd55b57c07e4e
+125	176	7600249791382506	C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-download	df4cd55b57c07e4e
+177	242	7600249792051950	RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-update	57acbe431d4ae3b3
+177	242	7600249792051950	C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-update	57acbe431d4ae3b3
+242	309	7600249792714878	RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-patch	cd53849ba3ae98cc
+242	309	7600249792714878	C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-patch	cd53849ba3ae98cc
