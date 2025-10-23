@@ -1,0 +1,37 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/CMakeFiles/RTOS_Mutexes+RTOS_Mutexes-database"
+		},
+		{
+			"file" : "C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/CMakeFiles/RTOS_Mutexes+RTOS_Mutexes-database.rule"
+		},
+		{
+			"file" : "C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-database.rule"
+		},
+		{
+			"file" : "C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-configure.rule"
+		},
+		{
+			"file" : "C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-patch.rule"
+		},
+		{
+			"file" : "C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-update.rule"
+		},
+		{
+			"file" : "C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-download.rule"
+		},
+		{
+			"file" : "C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"RTOS_Mutexes+RTOS_Mutexes"
+		],
+		"name" : "RTOS_Mutexes+RTOS_Mutexes-database"
+	}
+}
