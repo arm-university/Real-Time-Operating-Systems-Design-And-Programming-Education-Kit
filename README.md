@@ -18,7 +18,6 @@ Our Real-Time Operating Systems Design And Programming Education Kit teaches you
 
 * A full set of lecture slides, ready for use in a typical 10-12-week undergraduate course (full syllabus below).
 * Lab manual with solutions for faculty. Labs use low cost, powerful hardware boards (donated by partners and subject to availability).
-* License for royalty-free Keil RTX Real-Time OS bundled with Keil MDK development software.
 * **Prerequisites:** Basics of programming
 
 ## Tools Used
@@ -26,14 +25,16 @@ Our Real-Time Operating Systems Design And Programming Education Kit teaches you
 The lab exercises in this course have been developed and tested using the hardware and software listed below. If you use alternatives, you may need to make adjustments to ensure the labs run successfully.
 
 Hardware: 
-- STM32F407VG Discovery board
+- STM32L552ZEQ development board
 - Oscilloscope 
 
 Software:
 - Keil µVision5
-- RTX
+- CMSIS-RTOS2 API using FreeRTOS
+- RTX5
+- Free RTOS
 - Arm Debugger
-- CMSIS
+
 
 ## Course Aim
 To produce students who can design and program real-time operating systems on Arm-based platforms and use them to improve their application performance.
