@@ -1,5 +1,0 @@
-load STM32L552ZETxQ
-project name STM32CubeMX
-project toolchain "MDK-ARM V5"
-project path "C:\Users\tainek01\OneDrive - Arm\Desktop\en.stm32cubel5_v1-5-0\STM32Cube_FW_L5_V1.5.0\Projects\NUCLEO-L552ZE-Q\Applications\FreeRTOS\FreeRTOS_SemaphoreFromISR\MDK-ARM\STM32CubeMX\FreeRTOS_SemaphoreFromISR"
-SetCopyLibrary "copy only"

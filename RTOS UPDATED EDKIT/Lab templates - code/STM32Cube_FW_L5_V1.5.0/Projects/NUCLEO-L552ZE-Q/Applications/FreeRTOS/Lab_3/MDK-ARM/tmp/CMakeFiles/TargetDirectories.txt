@@ -1,8 +1,0 @@
-C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/CMakeFiles/database.dir
-C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/CMakeFiles/RTOS_Mutexes+RTOS_Mutexes.dir
-C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/CMakeFiles/RTOS_Mutexes+RTOS_Mutexes-build.dir
-C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/CMakeFiles/RTOS_Mutexes+RTOS_Mutexes-configure.dir
-C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/CMakeFiles/RTOS_Mutexes+RTOS_Mutexes-executes.dir
-C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/CMakeFiles/RTOS_Mutexes+RTOS_Mutexes-database.dir
-C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/CMakeFiles/edit_cache.dir
-C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/CMakeFiles/rebuild_cache.dir
