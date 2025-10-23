@@ -1,0 +1,11 @@
+# Target labels
+ RTOS_Mutexes+RTOS_Mutexes
+# Source files and their labels
+C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/CMakeFiles/RTOS_Mutexes+RTOS_Mutexes-database
+C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/CMakeFiles/RTOS_Mutexes+RTOS_Mutexes-database.rule
+C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-database.rule
+C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-configure.rule
+C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-patch.rule
+C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-update.rule
+C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-download.rule
+C:/Users/tainek01/OneDrive - Arm/Desktop/en.stm32cubel5_v1-5-0/STM32Cube_FW_L5_V1.5.0/Projects/NUCLEO-L552ZE-Q/Applications/FreeRTOS/FreeRTOS_Mutexes/MDK-ARM/tmp/RTOS_Mutexes+RTOS_Mutexes/src/RTOS_Mutexes+RTOS_Mutexes-stamp/RTOS_Mutexes+RTOS_Mutexes-mkdir.rule
